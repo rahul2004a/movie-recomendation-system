@@ -1,0 +1,4 @@
+venv
+.idea
+similarity.pkl
+movies.pkl
